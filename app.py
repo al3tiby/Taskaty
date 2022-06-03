@@ -1,6 +1,5 @@
 from argparse import ArgumentParser
-from .Task_controler import Task_controler
-# إذا خلصت المشروح وسويت الكوممينتس,سوالبرنت اللي يصير ببداية الأدوات
+from taskaty.Task_controler import Task_controler
 
 
 def main():

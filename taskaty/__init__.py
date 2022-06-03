@@ -1,4 +1,4 @@
-import taskaty.app
+import app
 
 def main():
-    taskaty.app.main()
+    app.main()
